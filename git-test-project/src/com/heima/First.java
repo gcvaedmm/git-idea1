@@ -11,4 +11,10 @@ public class First {
         System.out.println("111111111");
         System.out.println("111111111 ");
     }
+
+    public void test(){
+
+        System.out.println("游戏");
+    }
+
 }
