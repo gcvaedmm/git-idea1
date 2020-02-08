@@ -15,6 +15,7 @@ public class First {
     public void test(){
 
         System.out.println("游戏");
+        System.out.println("游戏");
     }
 
 }
